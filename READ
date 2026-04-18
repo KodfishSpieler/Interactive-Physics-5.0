@@ -1,11 +1,18 @@
 Welcome to the Interactive Physics engine!
-- You might be a bit list, but trust the process. First, go to "https://download-directory.github.io/", Copying the "INTERACTIVEPHYSICS"
-URL (Click on the folder and copy the URL you see at the top) and paste that code on the directory downloader. After that, you will want
-to open the "INTERACTIVEPHYSICS" file on the File Explorer and open the "SETUP.EXE" file. Extract it and then follow all the steps until 
-you finish everything. If it asks the user to insert a serial number, enter the word "Demo" in. After, search "Interactive Physics" on 
-the app search bar and you should be done!
 
-IMPORTANT NOTE: The demo version does not allow you to save your projects. However, if you want to save your projects, insert the serial
-number as "IP50T-00001-063019207" and it should work.
+WINDOWS: Go to "https://download-directory.github.io/" and copy the "INTERACTIVEPHYSICS" folder URL. Extract the files, open SETUP.EXE, and
+follow all the instructions there to download. It will then ask you to insert your name, company, and serial number. Put the name and
+company as whatever you would like and put "IP50T-00001-063019207" as the serial code. Wait some time for the installation to begin, and
+then you can search "Interactive Physics" on the windows app searcher and open it up.
+
+MAC: Regarding Apple computers' users, the SETUP.EXE does not function on the MacOS. You will need third-party softwares to run the 
+SETUP.EXE like Parallels Desktop or WineBottler. After you install and set up on of those, you can open the SETUP.EXE and proceed normally
+with the installation. You will have to download the INTERACTIVEPHYSICS folder, extract it, run SETUP.EXE, follow the installation
+instructions, and do everything as in the Windows instructions.
+
+IMPORTANT NOTE: In the installation process, it may give you a discreet hint to write "Demo" in where you are supposed to write the
+serial number, however if you do this, you will enter the demo version, which functions exactly the same as the normal version except
+you can't save your projects. If you just wanted to see the game overall, you should use the demo. However if you will consistently
+use Interactive Phyisics, writing "IP50T-00001-063019207" on the serial number inserter is recommended.
 
 THANK YOU FOR READING
